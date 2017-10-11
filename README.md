@@ -12,3 +12,6 @@ Diğer tarayıcılarda test etme fırsatı bulamadım fakat diğer tarayıcılar
 
 Not: Bu çalışmada kullandığım font ve arkaplan resmi ücretsiz paylaşımlardır. Yani herhangi bir kişinin ücretli çalışmasını suistimal değildir.
 
+Dosyalar içindeki login.png'yi açarak. Çalışmanın bitmiş halini görebilirsiniz. En kısa sürede canlı önizmele yapabileceğiniz
+örnek site eklenecektir.
+
